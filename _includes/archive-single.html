@@ -53,13 +53,13 @@
     {% endif %}
     
     {% if post.paperurl and post.codeurl%}
-      <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codeurl }}">Code</a></p>
+      <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codeurl }}">Code</a>
     {% elsif post.paperurl %}
-      <br /><a href="{{ post.paperurl }}">Paper</a></p>
+      <br /><a href="{{ post.paperurl }}">Paper</a>
     {% elsif post.codeurl %}
-      <a href="{{ post.codeurl }}">Code</a></p>
+      <a href="{{ post.codeurl }}">Code</a>
     {% elsif post.paperurl and post.codeurl and post.videourl%}
-      <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codeurl }}">Code</a></p> | <a href="{{ post.videourl }}">Video</a></p>
+      <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.codeurl }}">Code</a>| <a href="{{ post.videourl }}">Video</a>
     {% endif %}
 
   </article>
