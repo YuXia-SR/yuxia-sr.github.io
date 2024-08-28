@@ -8,7 +8,7 @@ date: 2024-08-25
 venue: "GenAI Evaluation KDD2024"
 slidesurl: ""
 videourl: ""
-codeurl: ""
+codeurl: "https://github.com/YuXia-SR/syncomp"
 paperurl: "https://arxiv.org/abs/2406.13130"
 citation: "Y. Xia, C. Wang, J. Mabry, G. Cheng. 2024. Advancing Retail Data Science: Comprehensive Evaluation of Synthetic Data. arXiv. https://arxiv.org/abs/2406.13130."
 ---
