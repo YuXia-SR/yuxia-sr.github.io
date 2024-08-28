@@ -14,6 +14,10 @@ Previously, I was fortunate to work with Professor [Zhengyuan Zhou](https://page
 
 # Recent News
 
+- **July 20, 2024: My evaluation of synthetic retail data has been accepted to the poster session of 2024 INFORMS Annual Meeting**
+  
+  I will present "Advancing Retail Data Science: Comprehensive Evaluation of Synthetic Data" at GenAI Evaluation KDD2024 on August 25, 2024.
+
 - **May 24, 2024: RetailSynth-AgentSim Code Now Open Source**
   
   RetailSynth-AgentSim is a practical framework for simulating AI agents that optimize coupon targeting for the entire retail customer journey. The code for RetailSynth-AgentSim is now available on [GitHub](https://github.com/RetailMarketingAI/retailsynth-agentsim)
